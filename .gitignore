@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# regenerated intermediates
+stage1_arcd_lexical/res_*.pkl
+stage2_tydi_replication/res_*.pkl
+stage*/results/analysis.pkl
